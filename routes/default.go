@@ -1,8 +1,8 @@
 package routes
 
 import (
+	"gin-template/main/app/controller/api"
 	"github.com/gin-gonic/gin"
-	"go-chain/main/app/controller/api"
 )
 
 func SetupRoutes(r *gin.Engine) {

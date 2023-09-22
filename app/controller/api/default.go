@@ -1,9 +1,9 @@
 package api
 
 import (
+	"gin-template/main/app/constant"
+	"gin-template/main/app/controller"
 	"github.com/gin-gonic/gin"
-	"go-chain/main/app/constant"
-	"go-chain/main/app/controller"
 )
 
 func Ping(c *gin.Context) {

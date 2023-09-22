@@ -1,4 +1,4 @@
-module go-chain/main
+module gin-template/main
 
 go 1.21.1
 

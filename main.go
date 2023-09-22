@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
+	"gin-template/main/app/constant"
+	"gin-template/main/bootstrap"
+	"gin-template/main/routes"
 	"github.com/gin-gonic/gin"
-	"go-chain/main/app/constant"
-	"go-chain/main/bootstrap"
-	"go-chain/main/routes"
 )
 
 func init() {

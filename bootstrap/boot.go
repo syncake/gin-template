@@ -2,9 +2,9 @@ package bootstrap
 
 import (
 	"fmt"
+	"gin-template/main/app/constant"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/viper"
-	"go-chain/main/app/constant"
 	"os"
 )
 
