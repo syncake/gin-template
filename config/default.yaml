@@ -1,0 +1,12 @@
+serve:
+  debug: true
+  host: "127.0.0.1"
+  port: 7777
+  loglevel: "debug"
+
+redis:
+  host: "127.0.0.1"
+  port: 3306
+  password: ""
+  db: 0
+
